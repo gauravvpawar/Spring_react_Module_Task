@@ -6,6 +6,7 @@ import About from "./components/About";
 import Home from "./components/Home"
 import Dashboard from "./components/Pages/Dashboard";
 import Demo from "./components/Pages/Demo";
+import AdminDashboard from "./components/Admin/AdminDashboard";
 
 function App() {
   return (
@@ -21,6 +22,8 @@ function App() {
           <Route path="/login" element={<Login />} />
           <Route path="/dashboard" element={<Dashboard/>} />
           <Route path="/demo" element={ <Demo/>} />
+
+          <Route path="/admindashboard" element={<AdminDashboard/>}></Route>
 
         </Routes>
       </div>
