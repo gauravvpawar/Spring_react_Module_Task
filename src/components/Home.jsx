@@ -32,11 +32,11 @@ function Home() {
                     <ul class="space-y-4">
                         <li class="bg-blue-50 p-4 rounded-lg border-l-4 border-blue-500">
                             <h4 class="font-medium">Update website content</h4>
-                            <p class="text-sm text-gray-600">Due: 2023-07-20</p>
+                            <p class="text-sm text-gray-600">Due: 2025-07-20</p>
                         </li>
                         <li class="bg-yellow-50 p-4 rounded-lg border-l-4 border-yellow-500">
                             <h4 class="font-medium">Prepare monthly report</h4>
-                            <p class="text-sm text-gray-600">Due: 2023-07-18</p>
+                            <p class="text-sm text-gray-600">Due: 2025-08-18</p>
                         </li>
                     </ul>
                 </div>
@@ -45,11 +45,11 @@ function Home() {
                     <ul class="space-y-4">
                         <li class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
                             <h4 class="font-medium">Fix login issue</h4>
-                            <p class="text-sm text-gray-600">Completed: 2023-07-15</p>
+                            <p class="text-sm text-gray-600">Completed: 2025-08-15</p>
                         </li>
                         <li class="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
                             <h4 class="font-medium">Team meeting</h4>
-                            <p class="text-sm text-gray-600">Completed: 2023-07-14</p>
+                            <p class="text-sm text-gray-600">Completed: 2025-08-14</p>
                         </li>
                     </ul>
                 </div>
